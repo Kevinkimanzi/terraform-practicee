@@ -27,9 +27,9 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server 1</h1>
-  <h2>Instance ID</h2>
-  <p>Welcome to Abhishek Veeramalla's Channel</p>
+  <h1>Kevin Kimanzi Kilonzi Terraform Project Server 1</h1>
+  <h2>Sit Down And Enjoy</h2>
+  <p>YEEEH KEVIN DID IT </p>
   
 </body>
 </html>
